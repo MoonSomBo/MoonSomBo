@@ -6,10 +6,7 @@
 - 😆🤝🤣 If you have something share Number Contact Down There ...
 - 🤙😹📲 ===> 097 6🔪7🪓8🗡9🔧 ...
 - Just Kidding 😂🤝🤣 ...
-<!---
-MoonSomBo/MoonSomBo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--- --->
 
 
 
