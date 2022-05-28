@@ -3,7 +3,7 @@
 ###### Extends
 ```Download and Install Blazer 
 
-#### Check everything installed correctly
+###Check everything installed correctly
 
 
 
