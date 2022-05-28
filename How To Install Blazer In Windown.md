@@ -2,9 +2,9 @@
 #### Blazer first install
 ###### Extends
 ```Download and Install Blazer 
-1 - ####Check everything installed correctly
-2 - ####Once you've installed, open a new command prompt and run the following command
-3 - ####go to command in search windown
+####Check everything installed correctly
+####Once you've installed, open a new command prompt and run the following command
+####go to command in search windown
 4 - ####write ==> dotnet <== in command
 5 - ####If the installation succeeded, you should see an output similar to the following
     Usage: dotnet [options]
